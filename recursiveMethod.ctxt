@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=recursiveMethod
+comment1.params=n
+comment1.target=int\ coins(int)
+comment2.params=amount\ d
+comment2.target=int\ ways(int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
